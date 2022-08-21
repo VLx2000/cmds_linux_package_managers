@@ -79,8 +79,8 @@
 >Ver UUID
 >
 ```sudo vnstat -i wlp0s20f0u3 -*```                  
-> - d: Daily statistics for the last 30 days.
-> - m: Monthly statistics for the past 12 months.
-> - w: Statistics for the last 7 days, and the current and previous week.
-> - h: Hourly statistics for the last 24 hours.
-> - t: Top 10 days with the highest traffic.
+> -d: Daily statistics for the last 30 days.<BR/>
+> -m: Monthly statistics for the past 12 months.<BR/>
+> -w: Statistics for the last 7 days, and the current and previous week.<BR/>
+> -h: Hourly statistics for the last 24 hours.<BR/>
+> -t: Top 10 days with the highest traffic.<BR/>
