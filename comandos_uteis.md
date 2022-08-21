@@ -1,14 +1,5 @@
 ### COMANDOS ÚTEIS
 
-```sudo dpkg --configure -a```                       
->Solucionar problemas causados por interrupção na instalação, e pendências na configuração do pacote
->
-```sudo dpkg -i --force-all```                       
->Para forçar a instalação
->
-```sudo dpkg -r [nome do pacote]```                  
->Desistir da instalação
->
 ```man```                                            
 >Manual
 >
