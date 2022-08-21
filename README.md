@@ -1,1 +1,1 @@
-# cmds_linux_package_managers
+### Repositório com alguns comandos úteis para distros linux 🐧💻
