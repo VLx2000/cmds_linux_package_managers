@@ -1,5 +1,15 @@
-### COMANDOS APT
-  
+### COMANDOS PARA DISTROS BASEDAS EM DEBIAN
+
+```dpkg --configure -a```                       
+>Solucionar problemas causados por interrupção na instalação, e pendências na configuração do pacote
+>
+```dpkg -i --force-all```                       
+>Para forçar a instalação
+>
+```dpkg -r [nome do pacote]```                  
+>Desistir da instalação
+>
+
 ```apt install```	        	           
 > Instala um pacote
 
